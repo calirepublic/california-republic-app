@@ -1,1 +1,1 @@
-{"name":"California Republic St Ives","short_name":"Cal Republic","description":"Order, book, browse menus and contact California Republic St Ives.","start_url":"/","display":"standalone","background_color":"#111111","theme_color":"#d8222a","icons":[]}
+{"name":"California Republic St Ives","short_name":"Cal Republic","description":"Order, book, browse menus and contact California Republic St Ives.","start_url":"./","scope":"./","display":"standalone","background_color":"#15110d","theme_color":"#d8222a","icons":[]}
